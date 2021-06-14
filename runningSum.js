@@ -14,7 +14,7 @@ var runningSum = function(nums) {
         // result at index 'i' is the sum of result at 'i-1' and element at 'i'
         result.push(result[i-1] + nums[i])
     }    
-    return result; 
+    return result;  
 
 };
 console.log(runningSum([1,2,3,4])); // output : [1,3,6,10]
