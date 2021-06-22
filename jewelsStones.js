@@ -3,7 +3,6 @@
 
 Letters are case sensitive, so "a" is considered a different type of stone from "A".
 
- 
 
 Example 1:
 
